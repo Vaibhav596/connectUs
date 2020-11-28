@@ -1,0 +1,33 @@
+header{
+    background-color: grey;
+    opacity: 0.8;
+    height: 80px;
+    p{
+        position: absolute;
+        top: 1%;
+        left: 1%;
+        font-size: 1.8rem;
+        color: blue;
+        font-weight: 700;
+
+    }
+    li{
+        float: right;
+        margin-left: 40px;
+        margin-right: 10px;
+        position: relative;
+        top: 30px;
+        button{
+            padding: 10px;
+            width: 100px;
+            background-color: blue;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1rem;
+        }
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+}
